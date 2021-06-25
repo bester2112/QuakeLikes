@@ -1,0 +1,4 @@
+287 ProBuilder meshes included in lightmap bake with missing UV2. Use the Lightmap + options to find missing UV2s.
+(You can turn off this warning in Preferences/ProBuilder).
+265 ProBuilder meshes included in lightmap bake with missing UV2. Use the Lightmap + options to find missing UV2s.
+(You can turn off this warning in Preferences/ProBuilder).
